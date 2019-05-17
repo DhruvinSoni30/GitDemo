@@ -1,2 +1,6 @@
 Main File
+<<<<<<< HEAD
 Alice
+=======
+Bob
+>>>>>>> ef5f00dcdc8492bcac8d01dbbbdff8157a21f6de
